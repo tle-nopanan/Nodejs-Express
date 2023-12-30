@@ -3,13 +3,11 @@
   <head> </head>
 
   <body>
-    <h1>Products</h1>
-    <% products.map((product) => {%>
+    <h1>Product Detail</h1>
     <h4>
       ชื่อ <a href="/products/<%=product.id%>"><%=product.productTitle %></a>
     </h4>
     <li>ข้อมูล <%=product.productDesc %></li>
     <li>ราคา <%=product.productPrice %> บาท</li>
-    <% }) %>
   </body>
 </html>
