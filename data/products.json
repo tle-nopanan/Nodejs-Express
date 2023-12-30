@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "productTitle": "washer",
+      "productDesc": "formula 1 good",
+      "productPrice": 230
+    },
+    {
+      "productTitle": "washer 2",
+      "productDesc": "formula 2 great",
+      "productPrice": 200
+    },
+    {
+      "productTitle": "washer 3",
+      "productDesc:": "formula 3 the best",
+      "productPrice": 220
+    },
+    {
+      "productTitle": "washer 4",
+      "productDesc": "formula 4 better",
+      "productPrice": 210
+    }
+  ]
+}
